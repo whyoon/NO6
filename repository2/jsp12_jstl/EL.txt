@@ -1,0 +1,10 @@
+1.EL(Expression Language)
+ 1) 형식: ${표현식}
+ 2) EL연산자: +, -, *, /, not, empty, %, mod, <, <=, >, >=, ==, !=,
+ 			lt, gt, le, ge, eq, ne, &&, ||, and, or,..
+ 3) EL내장객체
+ 	pageContext, pageScope, requestScope, sessionScope, applicationScope,
+ 	param, paramValues, header,headerValues, cookie, initParam,...
+ 	
+ 2. JSTL(JSP Standard Tag Library)
+ 	- jsp에서 지원하는 표준화된 커스텀태그 라이브러리
